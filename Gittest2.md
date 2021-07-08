@@ -1,3 +1,0 @@
-- this is another test file
-- this file is somehow linked to [[Gittest]]
-- 这是一段中文
